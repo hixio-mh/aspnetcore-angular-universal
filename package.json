@@ -55,7 +55,7 @@
     "json-loader": "^0.5.7",
     "moment": "^2.24.0",
     "ngx-bootstrap": "^3.2.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^5.0.0",
     "preboot": "^7.0.0",
     "raw-loader": "^1.0.0",
     "rimraf": "^2.6.3",
@@ -70,7 +70,7 @@
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.13.3",
+    "@angular-devkit/build-angular": "~0.800.0",
     "@angular/cli": "~7.3.3",
     "@angular/compiler-cli": "~7.2.0",
     "@ngtools/webpack": "~7.3.3",
